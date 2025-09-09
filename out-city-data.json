@@ -1183,10 +1183,10 @@
     "label": "其他"
   },
   {
-    "city": "朝阳区",
-    "cityCode": "110105",
-    "province": "北京市",
-    "provinceCode": "110000",
+    "city": "朝阳市",
+    "cityCode": "211300",
+    "province": "辽宁省",
+    "provinceCode": "210000",
     "label": "其他"
   },
   {
@@ -1974,7 +1974,7 @@
     "label": "其他"
   },
   {
-    "city": "济源市",
+    "city": "济源市*",
     "cityCode": "419001",
     "province": "河南省",
     "provinceCode": "410000",
@@ -2114,7 +2114,7 @@
     "label": "其他"
   },
   {
-    "city": "仙桃市",
+    "city": "仙桃市*",
     "cityCode": "429004",
     "province": "湖北省",
     "provinceCode": "420000",
@@ -2240,14 +2240,14 @@
     "label": "其他"
   },
   {
-    "city": "天门市",
+    "city": "天门市*",
     "cityCode": "429006",
     "province": "湖北省",
     "provinceCode": "420000",
     "label": "其他"
   },
   {
-    "city": "潜江市",
+    "city": "潜江市*",
     "cityCode": "429005",
     "province": "湖北省",
     "provinceCode": "420000",

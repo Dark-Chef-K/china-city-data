@@ -26,7 +26,7 @@ async function init() {
     return {
       ...item,
       children: item.children.map(cityName => {
-        const city = fullCityData.find(city => city[1].includes(cityName))
+        const city = fullCityData.find(city => city[1].includes(`${cityName}市`) || city[1].includes(`${cityName}`))
         if (city) {
           return {
             city: city[1],
@@ -51,7 +51,7 @@ async function init() {
   console.log('allCity', allCity)
 
 }
-// init()
+init()
 
 async function getGroup() {
   const cityData = await getJson('./out-city-data.json')
