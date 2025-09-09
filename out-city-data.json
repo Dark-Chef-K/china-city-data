@@ -63,10 +63,10 @@
     "label": "新一线城市"
   },
   {
-    "city": "西安区",
-    "cityCode": "220403",
-    "province": "吉林省",
-    "provinceCode": "220000",
+    "city": "西安市",
+    "cityCode": "610100",
+    "province": "陕西省",
+    "provinceCode": "610000",
     "label": "新一线城市"
   },
   {
@@ -357,10 +357,10 @@
     "label": "三线城市"
   },
   {
-    "city": "中山区",
-    "cityCode": "210202",
-    "province": "辽宁省",
-    "provinceCode": "210000",
+    "city": "中山市",
+    "cityCode": "442000",
+    "province": "广东省",
+    "provinceCode": "440000",
     "label": "三线城市"
   },
   {
@@ -567,8 +567,8 @@
     "label": "三线城市"
   },
   {
-    "city": "吉林省",
-    "cityCode": "220000",
+    "city": "吉林市",
+    "cityCode": "220200",
     "province": "吉林省",
     "provinceCode": "220000",
     "label": "三线城市"
@@ -924,10 +924,10 @@
     "label": "四线城市"
   },
   {
-    "city": "资阳区",
-    "cityCode": "430902",
-    "province": "湖南省",
-    "provinceCode": "430000",
+    "city": "资阳市",
+    "cityCode": "512000",
+    "province": "四川省",
+    "provinceCode": "510000",
     "label": "四线城市"
   },
   {

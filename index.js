@@ -26,7 +26,9 @@ async function init() {
     return {
       ...item,
       children: item.children.map(cityName => {
-        const city = fullCityData.find(city => city[1].includes(`${cityName}市`) || city[1].includes(`${cityName}`))
+        const city = fullCityData.find(city => {
+          return city[1].includes(cityName)
+        })
         if (city) {
           return {
             city: city[1].replace('*', ''),
@@ -49,7 +51,13 @@ async function init() {
     return arr.concat(item.children)
   }, [])
   console.log('allCity', allCity)
+  getCsv(allCity)
+}
 
+function getCsv(_data) {
+  console.log(_data.map(({ label, city, cityCode, province, provinceCode }) => {
+    return [label, city, cityCode, province, provinceCode].map(i => `$${i}$`).join(',')
+  }).join('\n').replaceAll('$', '"'))
 }
 init()
 
