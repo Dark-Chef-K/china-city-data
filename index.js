@@ -51,4 +51,42 @@ async function init() {
   console.log('allCity', allCity)
 
 }
-init()
+// init()
+
+async function getGroup() {
+  const cityData = await getJson('./out-city-data.json')
+  function groupByLabel() {
+    return cityData.reduce((acc, item) => {
+      const label = item.label || '无'
+      if (!acc.find(group => group.label === label)) {
+        acc.push({
+          label,
+          children: []
+        })
+      }
+      const group = acc.find(group => group.label === label)
+      group.children.push(item)
+      return acc
+    }, [])
+  }
+
+  function groupByProvince() {
+    return cityData.reduce((acc, item) => {
+      const provinceCode = item.provinceCode || '000000'
+      if (!acc.find(group => group.provinceCode === provinceCode)) {
+        acc.push({
+          provinceCode,
+          province: item.province || '无',
+          children: []
+        })
+      }
+      const group = acc.find(group => group.provinceCode === provinceCode)
+      group.children.push(item)
+      return acc
+    }, []).sort((a, b) => a.provinceCode.localeCompare(b.provinceCode))
+  }
+  console.log(groupByLabel())
+  console.log(groupByProvince())
+}
+
+getGroup()
