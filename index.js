@@ -29,9 +29,9 @@ async function init() {
         const city = fullCityData.find(city => city[1].includes(`${cityName}市`) || city[1].includes(`${cityName}`))
         if (city) {
           return {
-            city: city[1],
+            city: city[1].replace('*', ''),
             cityCode: city[0],
-            province: city[3],
+            province: city[3].replace('*', ''),
             provinceCode: `${city[2]}0000`,
             label: item.name,
           }
