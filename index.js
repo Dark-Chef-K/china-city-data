@@ -27,6 +27,8 @@ async function init() {
       ...item,
       children: item.children.map(cityName => {
         const city = fullCityData.find(city => {
+          return city[1].includes(`${cityName}市`)
+        }) || fullCityData.find(city => {
           return city[1].includes(cityName)
         })
         if (city) {
@@ -51,7 +53,7 @@ async function init() {
     return arr.concat(item.children)
   }, [])
   console.log('allCity', allCity)
-  getCsv(allCity)
+  // getCsv(allCity)
 }
 
 function getCsv(_data) {
