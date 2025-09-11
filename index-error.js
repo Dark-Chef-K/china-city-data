@@ -9,7 +9,7 @@ async function getJson(url) {
 
 async function init() {
   const cityData = await getJson('./city.json')
-  const levelData = await getJson('./level.json')
+  const levelData = await getJson('./level-origin.json')
   const provinceData = await getJson('./province.json')
   console.log('cityData', cityData)
   console.log('provinceData', provinceData)
