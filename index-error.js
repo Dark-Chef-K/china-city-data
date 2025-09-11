@@ -11,32 +11,44 @@ async function init() {
   const cityData = await getJson('./city.json')
   const levelData = await getJson('./level-origin.json')
   const provinceData = await getJson('./province.json')
-  console.log('cityData', cityData)
-  console.log('provinceData', provinceData)
   const fullCityData = cityData.map(item => {
     const province = provinceData.find(province => item[0].slice(0, 2) === province[0].slice(0, 2))
     if (province) {
-      return [...item, province[0], province[1]]
+      return {
+        provinceCode: province[0],
+        provinceName: province[1],
+        cityCode: item[0],
+        cityName: item[1],
+        aliasCityName: item[2],
+      }
     } else {
-      return [...item, ...item]
+      return {
+        provinceCode: item[0],
+        provinceName: item[1],
+        cityCode: item[0],
+        cityName: item[1],
+        aliasCityName: item[2],
+      }
     }
-
   })
+  console.log('fullCityData', fullCityData)
   const fullLevelData = levelData.map(item => {
     return {
       ...item,
       children: item.children.map(cityName => {
         const city = fullCityData.find(city => {
-          return city[1].includes(`${cityName}市`)
+          return city.aliasCityName?.includes(cityName)
         }) || fullCityData.find(city => {
-          return city[1].includes(cityName)
+          return city.cityName.includes(`${cityName}市`)
+        }) || fullCityData.find(city => {
+          return city.cityName.includes(cityName)
         })
         if (city) {
           return {
-            city: city[1].replace('*', ''),
-            cityCode: city[0],
-            province: city[3].replace('*', ''),
-            provinceCode: `${city[2]}0000`,
+            city: cityName.replace('*', ''),
+            cityCode: city.cityCode,
+            province: city.provinceName.replace('*', ''),
+            provinceCode: `${city.provinceCode}0000`,
             label: item.name,
           }
         }
@@ -47,7 +59,6 @@ async function init() {
       }).filter(Boolean)
     }
   })
-  console.log('fullLevelData', fullLevelData)
 
   const allCity = fullLevelData.reduce((arr, item) => {
     return arr.concat(item.children)
@@ -99,4 +110,4 @@ async function getGroup() {
   console.log(groupByProvince())
 }
 
-getGroup()
+// getGroup()
