@@ -3,2028 +3,2366 @@
     "city": "上海",
     "cityCode": "310000",
     "province": "上海市",
-    "provinceCode": "310000"
+    "provinceCode": "310000",
+    "label": "一线城市"
   },
   {
     "city": "北京",
     "cityCode": "110000",
     "province": "北京市",
-    "provinceCode": "110000"
+    "provinceCode": "110000",
+    "label": "一线城市"
   },
   {
     "city": "深圳",
     "cityCode": "440300",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "一线城市"
   },
   {
     "city": "广州",
     "cityCode": "440100",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "一线城市"
   },
   {
     "city": "成都",
     "cityCode": "510100",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "新一线城市"
   },
   {
     "city": "杭州",
     "cityCode": "330100",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "新一线城市"
   },
   {
     "city": "重庆",
     "cityCode": "500000",
     "province": "重庆市",
-    "provinceCode": "500000"
+    "provinceCode": "500000",
+    "label": "新一线城市"
   },
   {
     "city": "武汉",
     "cityCode": "420100",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "新一线城市"
   },
   {
     "city": "苏州",
     "cityCode": "320500",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "新一线城市"
   },
   {
     "city": "西安",
     "cityCode": "610100",
     "province": "陕西省",
-    "provinceCode": "610000"
+    "provinceCode": "610000",
+    "label": "新一线城市"
   },
   {
     "city": "南京",
     "cityCode": "320100",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "新一线城市"
   },
   {
     "city": "长沙",
     "cityCode": "430100",
     "province": "湖南省",
-    "provinceCode": "430000"
+    "provinceCode": "430000",
+    "label": "新一线城市"
   },
   {
     "city": "郑州",
     "cityCode": "410100",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "新一线城市"
   },
   {
     "city": "天津",
     "cityCode": "120000",
     "province": "天津市",
-    "provinceCode": "120000"
+    "provinceCode": "120000",
+    "label": "新一线城市"
   },
   {
     "city": "合肥",
     "cityCode": "340100",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "新一线城市"
   },
   {
     "city": "青岛",
     "cityCode": "370200",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "新一线城市"
   },
   {
     "city": "东莞",
     "cityCode": "441900",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "新一线城市"
   },
   {
     "city": "宁波",
     "cityCode": "330200",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "新一线城市"
   },
   {
     "city": "佛山",
     "cityCode": "440600",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "新一线城市"
   },
   {
     "city": "济南",
     "cityCode": "370100",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "二线城市"
   },
   {
     "city": "无锡",
     "cityCode": "320200",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "二线城市"
   },
   {
     "city": "沈阳",
     "cityCode": "210100",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "二线城市"
   },
   {
     "city": "昆明",
     "cityCode": "530100",
     "province": "云南省",
-    "provinceCode": "530000"
+    "provinceCode": "530000",
+    "label": "二线城市"
   },
   {
     "city": "福州",
     "cityCode": "350100",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "二线城市"
   },
   {
     "city": "厦门",
     "cityCode": "350200",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "二线城市"
   },
   {
     "city": "温州",
     "cityCode": "330300",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "二线城市"
   },
   {
     "city": "石家庄",
     "cityCode": "130100",
     "province": "河北省",
-    "provinceCode": "130000"
+    "provinceCode": "130000",
+    "label": "二线城市"
   },
   {
     "city": "大连",
     "cityCode": "210200",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "二线城市"
   },
   {
     "city": "哈尔滨",
     "cityCode": "230100",
     "province": "黑龙江省",
-    "provinceCode": "230000"
+    "provinceCode": "230000",
+    "label": "二线城市"
   },
   {
     "city": "金华",
     "cityCode": "330700",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "二线城市"
   },
   {
     "city": "泉州",
     "cityCode": "350500",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "二线城市"
   },
   {
     "city": "南宁",
     "cityCode": "450100",
     "province": "广西壮族自治区",
-    "provinceCode": "450000"
+    "provinceCode": "450000",
+    "label": "二线城市"
   },
   {
     "city": "长春",
     "cityCode": "220100",
     "province": "吉林省",
-    "provinceCode": "220000"
+    "provinceCode": "220000",
+    "label": "二线城市"
   },
   {
     "city": "常州",
     "cityCode": "320400",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "二线城市"
   },
   {
     "city": "南昌",
     "cityCode": "360100",
     "province": "江西省",
-    "provinceCode": "360000"
+    "provinceCode": "360000",
+    "label": "二线城市"
   },
   {
     "city": "南通",
     "cityCode": "320600",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "二线城市"
   },
   {
     "city": "贵阳",
     "cityCode": "520100",
     "province": "贵州省",
-    "provinceCode": "520000"
+    "provinceCode": "520000",
+    "label": "二线城市"
   },
   {
     "city": "嘉兴",
     "cityCode": "330400",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "二线城市"
   },
   {
     "city": "徐州",
     "cityCode": "320300",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "二线城市"
   },
   {
     "city": "惠州",
     "cityCode": "441300",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "二线城市"
   },
   {
     "city": "太原",
     "cityCode": "140100",
     "province": "山西省",
-    "provinceCode": "140000"
+    "provinceCode": "140000",
+    "label": "二线城市"
   },
   {
     "city": "烟台",
     "cityCode": "370600",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "二线城市"
   },
   {
     "city": "台州",
     "cityCode": "331000",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "二线城市"
   },
   {
     "city": "绍兴",
     "cityCode": "330600",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "二线城市"
   },
   {
     "city": "珠海",
     "cityCode": "440400",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "二线城市"
   },
   {
     "city": "洛阳",
     "cityCode": "410300",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "二线城市"
   },
   {
     "city": "潍坊",
     "cityCode": "370700",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "二线城市"
   },
   {
     "city": "乌鲁木齐",
     "cityCode": "650100",
     "province": "新疆维吾尔自治区",
-    "provinceCode": "650000"
+    "provinceCode": "650000",
+    "label": "三线城市"
   },
   {
     "city": "兰州",
     "cityCode": "620100",
     "province": "甘肃省",
-    "provinceCode": "620000"
+    "provinceCode": "620000",
+    "label": "三线城市"
   },
   {
     "city": "中山",
     "cityCode": "442000",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "三线城市"
   },
   {
     "city": "盐城",
     "cityCode": "320900",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "三线城市"
   },
   {
     "city": "海口",
     "cityCode": "460100",
     "province": "海南省",
-    "provinceCode": "460000"
+    "provinceCode": "460000",
+    "label": "三线城市"
   },
   {
     "city": "扬州",
     "cityCode": "321000",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "三线城市"
   },
   {
     "city": "济宁",
     "cityCode": "370800",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "三线城市"
   },
   {
     "city": "湖州",
     "cityCode": "330500",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "三线城市"
   },
   {
     "city": "赣州",
     "cityCode": "360700",
     "province": "江西省",
-    "provinceCode": "360000"
+    "provinceCode": "360000",
+    "label": "三线城市"
   },
   {
     "city": "邯郸",
     "cityCode": "130400",
     "province": "河北省",
-    "provinceCode": "130000"
+    "provinceCode": "130000",
+    "label": "三线城市"
   },
   {
     "city": "南阳",
     "cityCode": "411300",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "三线城市"
   },
   {
     "city": "唐山",
     "cityCode": "130200",
     "province": "河北省",
-    "provinceCode": "130000"
+    "provinceCode": "130000",
+    "label": "三线城市"
   },
   {
     "city": "芜湖",
     "cityCode": "340200",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "三线城市"
   },
   {
     "city": "阜阳",
     "cityCode": "341200",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "三线城市"
   },
   {
     "city": "廊坊",
     "cityCode": "131000",
     "province": "河北省",
-    "provinceCode": "130000"
+    "provinceCode": "130000",
+    "label": "三线城市"
   },
   {
     "city": "汕头",
     "cityCode": "440500",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "三线城市"
   },
   {
     "city": "泰州",
     "cityCode": "321200",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "三线城市"
   },
   {
     "city": "呼和浩特",
     "cityCode": "150100",
     "province": "内蒙古自治区",
-    "provinceCode": "150000"
+    "provinceCode": "150000",
+    "label": "三线城市"
   },
   {
     "city": "镇江",
     "cityCode": "321100",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "三线城市"
   },
   {
     "city": "江门",
     "cityCode": "440700",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "三线城市"
   },
   {
     "city": "德州",
     "cityCode": "371400",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "三线城市"
   },
   {
     "city": "宜春",
     "cityCode": "360900",
     "province": "江西省",
-    "provinceCode": "360000"
+    "provinceCode": "360000",
+    "label": "三线城市"
   },
   {
     "city": "茂名",
     "cityCode": "440900",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "三线城市"
   },
   {
     "city": "湛江",
     "cityCode": "440800",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "三线城市"
   },
   {
     "city": "揭阳",
     "cityCode": "445200",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "三线城市"
   },
   {
     "city": "肇庆",
     "cityCode": "441200",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "三线城市"
   },
   {
     "city": "宜昌",
     "cityCode": "420500",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "三线城市"
   },
   {
     "city": "襄阳",
     "cityCode": "420600",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "三线城市"
   },
   {
     "city": "淮安",
     "cityCode": "320800",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "三线城市"
   },
   {
     "city": "连云港",
     "cityCode": "320700",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "三线城市"
   },
   {
     "city": "漳州",
     "cityCode": "350600",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "三线城市"
   },
   {
     "city": "莆田",
     "cityCode": "350300",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "三线城市"
   },
   {
     "city": "吉林",
     "cityCode": "220200",
     "province": "吉林省",
-    "provinceCode": "220000"
+    "provinceCode": "220000",
+    "label": "三线城市"
   },
   {
     "city": "包头",
     "cityCode": "150200",
     "province": "内蒙古自治区",
-    "provinceCode": "150000"
+    "provinceCode": "150000",
+    "label": "三线城市"
   },
   {
     "city": "银川",
     "cityCode": "640100",
     "province": "宁夏回族自治区",
-    "provinceCode": "640000"
+    "provinceCode": "640000",
+    "label": "三线城市"
   },
   {
     "city": "西宁",
     "cityCode": "630100",
     "province": "青海省",
-    "provinceCode": "630000"
+    "provinceCode": "630000",
+    "label": "三线城市"
   },
   {
     "city": "拉萨",
     "cityCode": "540100",
     "province": "西藏自治区",
-    "provinceCode": "540000"
+    "provinceCode": "540000",
+    "label": "三线城市"
   },
   {
     "city": "三亚",
     "cityCode": "460200",
     "province": "海南省",
-    "provinceCode": "460000"
+    "provinceCode": "460000",
+    "label": "三线城市"
   },
   {
     "city": "九江",
     "cityCode": "360400",
     "province": "江西省",
-    "provinceCode": "360000"
+    "provinceCode": "360000",
+    "label": "三线城市"
   },
   {
     "city": "榆林",
     "cityCode": "610800",
     "province": "陕西省",
-    "provinceCode": "610000"
+    "provinceCode": "610000",
+    "label": "三线城市"
   },
   {
     "city": "许昌",
     "cityCode": "411000",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "三线城市"
   },
   {
     "city": "新乡",
     "cityCode": "410700",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "三线城市"
   },
   {
     "city": "舟山",
     "cityCode": "330900",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "三线城市"
   },
   {
     "city": "淄博",
     "cityCode": "370300",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "三线城市"
   },
   {
     "city": "沧州",
     "cityCode": "130900",
     "province": "河北省",
-    "provinceCode": "130000"
+    "provinceCode": "130000",
+    "label": "三线城市"
   },
   {
     "city": "大同",
     "cityCode": "140200",
     "province": "山西省",
-    "provinceCode": "140000"
+    "provinceCode": "140000",
+    "label": "三线城市"
   },
   {
     "city": "鞍山",
     "cityCode": "210300",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "三线城市"
   },
   {
     "city": "湘潭",
     "cityCode": "430300",
     "province": "湖南省",
-    "provinceCode": "430000"
+    "provinceCode": "430000",
+    "label": "三线城市"
   },
   {
     "city": "安庆",
     "cityCode": "340800",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "三线城市"
   },
   {
     "city": "秦皇岛",
     "cityCode": "130300",
     "province": "河北省",
-    "provinceCode": "130000"
+    "provinceCode": "130000",
+    "label": "三线城市"
   },
   {
     "city": "株洲",
     "cityCode": "430200",
     "province": "湖南省",
-    "provinceCode": "430000"
+    "provinceCode": "430000",
+    "label": "三线城市"
   },
   {
     "city": "绵阳",
     "cityCode": "510700",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "三线城市"
   },
   {
     "city": "平顶山",
     "cityCode": "410400",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "三线城市"
   },
   {
     "city": "龙岩",
     "cityCode": "350800",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "三线城市"
   },
   {
     "city": "临沂",
     "cityCode": "371300",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "三线城市"
   },
   {
     "city": "保定",
     "cityCode": "130600",
     "province": "河北省",
-    "provinceCode": "130000"
+    "provinceCode": "130000",
+    "label": "三线城市"
   },
   {
     "city": "柳州",
     "cityCode": "450200",
     "province": "广西壮族自治区",
-    "provinceCode": "450000"
+    "provinceCode": "450000",
+    "label": "三线城市"
   },
   {
     "city": "枣庄",
     "cityCode": "370400",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "四线城市"
   },
   {
     "city": "宜宾",
     "cityCode": "511500",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "四线城市"
   },
   {
     "city": "开封",
     "cityCode": "410200",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "四线城市"
   },
   {
     "city": "邵阳",
     "cityCode": "430500",
     "province": "湖南省",
-    "provinceCode": "430000"
+    "provinceCode": "430000",
+    "label": "四线城市"
   },
   {
     "city": "运城",
     "cityCode": "140800",
     "province": "山西省",
-    "provinceCode": "140000"
+    "provinceCode": "140000",
+    "label": "四线城市"
   },
   {
     "city": "吉安",
     "cityCode": "360800",
     "province": "江西省",
-    "provinceCode": "360000"
+    "provinceCode": "360000",
+    "label": "四线城市"
   },
   {
     "city": "日照",
     "cityCode": "371100",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "四线城市"
   },
   {
     "city": "郴州",
     "cityCode": "431000",
     "province": "湖南省",
-    "provinceCode": "430000"
+    "provinceCode": "430000",
+    "label": "四线城市"
   },
   {
     "city": "滨州",
     "cityCode": "371600",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "四线城市"
   },
   {
     "city": "丽水",
     "cityCode": "331100",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "四线城市"
   },
   {
     "city": "宣城",
     "cityCode": "341800",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "四线城市"
   },
   {
     "city": "淮南",
     "cityCode": "340400",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "四线城市"
   },
   {
     "city": "东营",
     "cityCode": "370500",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "四线城市"
   },
   {
     "city": "南充",
     "cityCode": "511300",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "四线城市"
   },
   {
     "city": "黄山",
     "cityCode": "341000",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "四线城市"
   },
   {
     "city": "晋中",
     "cityCode": "140700",
     "province": "山西省",
-    "provinceCode": "140000"
+    "provinceCode": "140000",
+    "label": "四线城市"
   },
   {
     "city": "曲靖",
     "cityCode": "530300",
     "province": "云南省",
-    "provinceCode": "530000"
+    "provinceCode": "530000",
+    "label": "四线城市"
   },
   {
     "city": "孝感",
     "cityCode": "420900",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "四线城市"
   },
   {
     "city": "汕尾",
     "cityCode": "441500",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "四线城市"
   },
   {
     "city": "河源",
     "cityCode": "441600",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "四线城市"
   },
   {
     "city": "韶关",
     "cityCode": "440200",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "四线城市"
   },
   {
     "city": "潮州",
     "cityCode": "445100",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "四线城市"
   },
   {
     "city": "梅州",
     "cityCode": "441400",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "四线城市"
   },
   {
     "city": "阳江",
     "cityCode": "441700",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "四线城市"
   },
   {
     "city": "衢州",
     "cityCode": "330800",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "四线城市"
   },
   {
     "city": "张家口",
     "cityCode": "130700",
     "province": "河北省",
-    "provinceCode": "130000"
+    "provinceCode": "130000",
+    "label": "四线城市"
   },
   {
     "city": "眉山",
     "cityCode": "511181",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "四线城市"
   },
   {
     "city": "常德",
     "cityCode": "430700",
     "province": "湖南省",
-    "provinceCode": "430000"
+    "provinceCode": "430000",
+    "label": "四线城市"
   },
   {
     "city": "资阳",
     "cityCode": "512000",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "四线城市"
   },
   {
     "city": "赤峰",
     "cityCode": "150400",
     "province": "内蒙古自治区",
-    "provinceCode": "150000"
+    "provinceCode": "150000",
+    "label": "四线城市"
   },
   {
     "city": "蚌埠",
     "cityCode": "340300",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "四线城市"
   },
   {
     "city": "宁德",
     "cityCode": "350900",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "四线城市"
   },
   {
     "city": "宝鸡",
     "cityCode": "610300",
     "province": "陕西省",
-    "provinceCode": "610000"
+    "provinceCode": "610000",
+    "label": "四线城市"
   },
   {
     "city": "牡丹江",
     "cityCode": "231000",
     "province": "黑龙江省",
-    "provinceCode": "230000"
+    "provinceCode": "230000",
+    "label": "四线城市"
   },
   {
     "city": "黄石",
     "cityCode": "420200",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "四线城市"
   },
   {
     "city": "延安",
     "cityCode": "610600",
     "province": "陕西省",
-    "provinceCode": "610000"
+    "provinceCode": "610000",
+    "label": "四线城市"
   },
   {
     "city": "通辽",
     "cityCode": "150500",
     "province": "内蒙古自治区",
-    "provinceCode": "150000"
+    "provinceCode": "150000",
+    "label": "四线城市"
   },
   {
     "city": "安阳",
     "cityCode": "410500",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "四线城市"
   },
   {
     "city": "遵义",
     "cityCode": "520300",
     "province": "贵州省",
-    "provinceCode": "520000"
+    "provinceCode": "520000",
+    "label": "四线城市"
   },
   {
     "city": "泸州",
     "cityCode": "510500",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "四线城市"
   },
   {
     "city": "南平",
     "cityCode": "350700",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "四线城市"
   },
   {
     "city": "滁州",
     "cityCode": "341100",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "四线城市"
   },
   {
     "city": "景德镇",
     "cityCode": "360200",
     "province": "江西省",
-    "provinceCode": "360000"
+    "provinceCode": "360000",
+    "label": "四线城市"
   },
   {
     "city": "荆门",
     "cityCode": "420800",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "四线城市"
   },
   {
     "city": "宿迁",
     "cityCode": "321300",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "四线城市"
   },
   {
     "city": "荆州",
     "cityCode": "421000",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "四线城市"
   },
   {
     "city": "娄底",
     "cityCode": "431300",
     "province": "湖南省",
-    "provinceCode": "430000"
+    "provinceCode": "430000",
+    "label": "四线城市"
   },
   {
     "city": "上饶",
     "cityCode": "361100",
     "province": "江西省",
-    "provinceCode": "360000"
+    "provinceCode": "360000",
+    "label": "四线城市"
   },
   {
     "city": "内江",
     "cityCode": "511000",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "四线城市"
   },
   {
     "city": "三明",
     "cityCode": "350400",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "四线城市"
   },
   {
     "city": "乐山",
     "cityCode": "511100",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "四线城市"
   },
   {
     "city": "临汾",
     "cityCode": "141000",
     "province": "山西省",
-    "provinceCode": "140000"
+    "provinceCode": "140000",
+    "label": "四线城市"
   },
   {
     "city": "攀枝花",
     "cityCode": "510400",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "四线城市"
   },
   {
     "city": "阳泉",
     "cityCode": "140300",
     "province": "山西省",
-    "provinceCode": "140000"
+    "provinceCode": "140000",
+    "label": "四线城市"
   },
   {
     "city": "忻州",
     "cityCode": "140900",
     "province": "山西省",
-    "provinceCode": "140000"
+    "provinceCode": "140000",
+    "label": "其他"
   },
   {
     "city": "伊犁",
     "cityCode": "654000",
     "province": "新疆维吾尔自治区",
-    "provinceCode": "650000"
+    "provinceCode": "650000",
+    "label": "其他"
   },
   {
     "city": "丹东",
     "cityCode": "210600",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "延边",
     "cityCode": "222400",
     "province": "吉林省",
-    "provinceCode": "220000"
+    "provinceCode": "220000",
+    "label": "其他"
   },
   {
     "city": "酒泉",
     "cityCode": "620900",
     "province": "甘肃省",
-    "provinceCode": "620000"
+    "provinceCode": "620000",
+    "label": "其他"
   },
   {
     "city": "阿克苏",
     "cityCode": "652901",
     "province": "新疆维吾尔自治区",
-    "provinceCode": "650000"
+    "provinceCode": "650000",
+    "label": "其他"
   },
   {
     "city": "梧州",
     "cityCode": "450400",
     "province": "广西壮族自治区",
-    "provinceCode": "450000"
+    "provinceCode": "450000",
+    "label": "其他"
   },
   {
     "city": "池州",
     "cityCode": "341700",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "其他"
   },
   {
     "city": "葫芦岛",
     "cityCode": "211400",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "佳木斯",
     "cityCode": "230800",
     "province": "黑龙江省",
-    "provinceCode": "230000"
+    "provinceCode": "230000",
+    "label": "其他"
   },
   {
     "city": "通化",
     "cityCode": "220500",
     "province": "吉林省",
-    "provinceCode": "220000"
+    "provinceCode": "220000",
+    "label": "其他"
   },
   {
     "city": "朝阳",
     "cityCode": "211300",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "六盘水",
     "cityCode": "520200",
     "province": "贵州省",
-    "provinceCode": "520000"
+    "provinceCode": "520000",
+    "label": "其他"
   },
   {
     "city": "自贡",
     "cityCode": "510300",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "其他"
   },
   {
     "city": "漯河",
     "cityCode": "411100",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "其他"
   },
   {
     "city": "新余",
     "cityCode": "360500",
     "province": "江西省",
-    "provinceCode": "360000"
+    "provinceCode": "360000",
+    "label": "其他"
   },
   {
     "city": "西双版纳",
     "cityCode": "532800",
     "province": "云南省",
-    "provinceCode": "530000"
+    "provinceCode": "530000",
+    "label": "其他"
   },
   {
     "city": "湘西",
     "cityCode": "433100",
     "province": "湖南省",
-    "provinceCode": "430000"
+    "provinceCode": "430000",
+    "label": "其他"
   },
   {
     "city": "黔西南",
     "cityCode": "522300",
     "province": "贵州省",
-    "provinceCode": "520000"
+    "provinceCode": "520000",
+    "label": "其他"
   },
   {
     "city": "张家界",
     "cityCode": "430800",
     "province": "湖南省",
-    "provinceCode": "430000"
+    "provinceCode": "430000",
+    "label": "其他"
   },
   {
     "city": "昭通",
     "cityCode": "530600",
     "province": "云南省",
-    "provinceCode": "530000"
+    "provinceCode": "530000",
+    "label": "其他"
   },
   {
     "city": "丽江",
     "cityCode": "530700",
     "province": "云南省",
-    "provinceCode": "530000"
+    "provinceCode": "530000",
+    "label": "其他"
   },
   {
     "city": "贵港",
     "cityCode": "450800",
     "province": "广西壮族自治区",
-    "provinceCode": "450000"
+    "provinceCode": "450000",
+    "label": "其他"
   },
   {
     "city": "嘉峪关",
     "cityCode": "620200",
     "province": "甘肃省",
-    "provinceCode": "620000"
+    "provinceCode": "620000",
+    "label": "其他"
   },
   {
     "city": "云浮",
     "cityCode": "445300",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "其他"
   },
   {
     "city": "钦州",
     "cityCode": "450700",
     "province": "广西壮族自治区",
-    "provinceCode": "450000"
+    "provinceCode": "450000",
+    "label": "其他"
   },
   {
     "city": "玉溪",
     "cityCode": "530400",
     "province": "云南省",
-    "provinceCode": "530000"
+    "provinceCode": "530000",
+    "label": "其他"
   },
   {
     "city": "铜陵",
     "cityCode": "340700",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "其他"
   },
   {
     "city": "宿州",
     "cityCode": "341300",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "其他"
   },
   {
     "city": "菏泽",
     "cityCode": "371700",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "锡林郭勒盟",
     "cityCode": "152500",
     "province": "内蒙古自治区",
-    "provinceCode": "150000"
+    "provinceCode": "150000",
+    "label": "其他"
   },
   {
     "city": "大理白族自治州",
     "cityCode": "532900",
     "province": "云南省",
-    "provinceCode": "530000"
+    "provinceCode": "530000",
+    "label": "其他"
   },
   {
     "city": "益阳",
     "cityCode": "430900",
     "province": "湖南省",
-    "provinceCode": "430000"
+    "provinceCode": "430000",
+    "label": "其他"
   },
   {
     "city": "衡水",
     "cityCode": "131100",
     "province": "河北省",
-    "provinceCode": "130000"
+    "provinceCode": "130000",
+    "label": "其他"
   },
   {
     "city": "汉中",
     "cityCode": "610700",
     "province": "陕西省",
-    "provinceCode": "610000"
+    "provinceCode": "610000",
+    "label": "其他"
   },
   {
     "city": "莱芜",
     "cityCode": "370116",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "达州",
     "cityCode": "511700",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "其他"
   },
   {
     "city": "本溪",
     "cityCode": "210500",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "如皋",
     "cityCode": "320682",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "咸宁",
     "cityCode": "421200",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "其他"
   },
   {
     "city": "玉林",
     "cityCode": "450900",
     "province": "广西壮族自治区",
-    "provinceCode": "450000"
+    "provinceCode": "450000",
+    "label": "其他"
   },
   {
     "city": "承德",
     "cityCode": "130800",
     "province": "河北省",
-    "provinceCode": "130000"
+    "provinceCode": "130000",
+    "label": "其他"
   },
   {
     "city": "临海",
     "cityCode": "331082",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "其他"
   },
   {
     "city": "淮北",
     "cityCode": "340600",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "其他"
   },
   {
     "city": "六安",
     "cityCode": "341500",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "其他"
   },
   {
     "city": "商丘",
     "cityCode": "411400",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "其他"
   },
   {
     "city": "宁海县",
     "cityCode": "330226",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "其他"
   },
   {
     "city": "永州",
     "cityCode": "431100",
     "province": "湖南省",
-    "provinceCode": "430000"
+    "provinceCode": "430000",
+    "label": "其他"
   },
   {
     "city": "库尔勒",
     "cityCode": "652801",
     "province": "新疆维吾尔自治区",
-    "provinceCode": "650000"
+    "provinceCode": "650000",
+    "label": "其他"
   },
   {
     "city": "亳州",
     "cityCode": "341600",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "其他"
   },
   {
     "city": "周口",
     "cityCode": "411600",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "其他"
   },
   {
     "city": "信阳",
     "cityCode": "411500",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "其他"
   },
   {
     "city": "驻马店",
     "cityCode": "411700",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "其他"
   },
   {
     "city": "朔州",
     "cityCode": "140600",
     "province": "山西省",
-    "provinceCode": "140000"
+    "provinceCode": "140000",
+    "label": "其他"
   },
   {
     "city": "吕梁",
     "cityCode": "141100",
     "province": "山西省",
-    "provinceCode": "140000"
+    "provinceCode": "140000",
+    "label": "其他"
   },
   {
     "city": "克拉玛依",
     "cityCode": "650200",
     "province": "新疆维吾尔自治区",
-    "provinceCode": "650000"
+    "provinceCode": "650000",
+    "label": "其他"
   },
   {
     "city": "濮阳",
     "cityCode": "410900",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "其他"
   },
   {
     "city": "金坛",
     "cityCode": "320413",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "四平",
     "cityCode": "220300",
     "province": "吉林省",
-    "provinceCode": "220000"
+    "provinceCode": "220000",
+    "label": "其他"
   },
   {
     "city": "三门峡",
     "cityCode": "411200",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "其他"
   },
   {
     "city": "十堰",
     "cityCode": "420300",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "其他"
   },
   {
     "city": "萍乡",
     "cityCode": "360300",
     "province": "江西省",
-    "provinceCode": "360000"
+    "provinceCode": "360000",
+    "label": "其他"
   },
   {
     "city": "呼伦贝尔",
     "cityCode": "150700",
     "province": "内蒙古自治区",
-    "provinceCode": "150000"
+    "provinceCode": "150000",
+    "label": "其他"
   },
   {
     "city": "平度",
     "cityCode": "370283",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "靖江",
     "cityCode": "321282",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "神木县",
     "cityCode": "610881",
     "province": "陕西省",
-    "provinceCode": "610000"
+    "provinceCode": "610000",
+    "label": "其他"
   },
   {
     "city": "海安县",
     "cityCode": "320685",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "东阳",
     "cityCode": "330783",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "其他"
   },
   {
     "city": "德清县",
     "cityCode": "330521",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "其他"
   },
   {
     "city": "如东县",
     "cityCode": "320623",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "遂宁",
     "cityCode": "510900",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "其他"
   },
   {
     "city": "胶州",
     "cityCode": "370281",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "白山",
     "cityCode": "220600",
     "province": "吉林省",
-    "provinceCode": "220000"
+    "provinceCode": "220000",
+    "label": "其他"
   },
   {
     "city": "怀化",
     "cityCode": "431200",
     "province": "湖南省",
-    "provinceCode": "430000"
+    "provinceCode": "430000",
+    "label": "其他"
   },
   {
     "city": "黄冈",
     "cityCode": "421100",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "其他"
   },
   {
     "city": "福清",
     "cityCode": "350181",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "其他"
   },
   {
     "city": "巴彦淖尔",
     "cityCode": "150800",
     "province": "内蒙古自治区",
-    "provinceCode": "150000"
+    "provinceCode": "150000",
+    "label": "其他"
   },
   {
     "city": "新泰",
     "cityCode": "370982",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "红河哈尼族彝族自治州",
     "cityCode": "532500",
     "province": "云南省",
-    "provinceCode": "530000"
+    "provinceCode": "530000",
+    "label": "其他"
   },
   {
     "city": "随州",
     "cityCode": "421300",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "其他"
   },
   {
     "city": "泰兴",
     "cityCode": "321283",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "青州",
     "cityCode": "370781",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "龙口",
     "cityCode": "370681",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "兴化",
     "cityCode": "321281",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "莱州",
     "cityCode": "370683",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "宁乡县",
     "cityCode": "430182",
     "province": "湖南省",
-    "provinceCode": "430000"
+    "provinceCode": "430000",
+    "label": "其他"
   },
   {
     "city": "招远",
     "cityCode": "370685",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "玉环县",
     "cityCode": "331083",
     "province": "浙江省",
-    "provinceCode": "330000"
+    "provinceCode": "330000",
+    "label": "其他"
   },
   {
     "city": "肥城",
     "cityCode": "370983",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "绥化",
     "cityCode": "231200",
     "province": "黑龙江省",
-    "provinceCode": "230000"
+    "provinceCode": "230000",
+    "label": "其他"
   },
   {
     "city": "铁岭",
     "cityCode": "211200",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "仪征",
     "cityCode": "321081",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "百色",
     "cityCode": "451000",
     "province": "广西壮族自治区",
-    "provinceCode": "450000"
+    "provinceCode": "450000",
+    "label": "其他"
   },
   {
     "city": "恩施土家族苗族自治州",
     "cityCode": "422800",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "其他"
   },
   {
     "city": "章丘",
     "cityCode": "370114",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "毕节地区",
     "cityCode": "520500",
     "province": "贵州省",
-    "provinceCode": "520000"
+    "provinceCode": "520000",
+    "label": "其他"
   },
   {
     "city": "邹城",
     "cityCode": "370883",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "阜新",
     "cityCode": "210900",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "抚州",
     "cityCode": "361000",
     "province": "江西省",
-    "provinceCode": "360000"
+    "provinceCode": "360000",
+    "label": "其他"
   },
   {
     "city": "惠安县",
     "cityCode": "350521",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "其他"
   },
   {
     "city": "郫县",
     "cityCode": "510117",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "其他"
   },
   {
     "city": "安康",
     "cityCode": "610900",
     "province": "陕西省",
-    "provinceCode": "610000"
+    "provinceCode": "610000",
+    "label": "其他"
   },
   {
     "city": "姜堰",
     "cityCode": "321204",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "铜川",
     "cityCode": "610200",
     "province": "陕西省",
-    "provinceCode": "610000"
+    "provinceCode": "610000",
+    "label": "其他"
   },
   {
     "city": "广安",
     "cityCode": "511600",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "其他"
   },
   {
     "city": "龙海",
     "cityCode": "350604",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "其他"
   },
   {
     "city": "邹平县",
     "cityCode": "371681",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "鄂州",
     "cityCode": "420700",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "其他"
   },
   {
     "city": "鸡西",
     "cityCode": "230300",
     "province": "黑龙江省",
-    "provinceCode": "230000"
+    "provinceCode": "230000",
+    "label": "其他"
   },
   {
     "city": "东台",
     "cityCode": "320981",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "广元",
     "cityCode": "510800",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "其他"
   },
   {
     "city": "高密",
     "cityCode": "370785",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "东港",
     "cityCode": "210681",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "雅安",
     "cityCode": "511800",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "其他"
   },
   {
     "city": "楚雄彝族自治州",
     "cityCode": "532300",
     "province": "云南省",
-    "provinceCode": "530000"
+    "provinceCode": "530000",
+    "label": "其他"
   },
   {
     "city": "闽侯县",
     "cityCode": "350121",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "其他"
   },
   {
     "city": "三河",
     "cityCode": "131082",
     "province": "河北省",
-    "provinceCode": "130000"
+    "provinceCode": "130000",
+    "label": "其他"
   },
   {
     "city": "莱西",
     "cityCode": "370285",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "鹤壁",
     "cityCode": "410600",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "其他"
   },
   {
     "city": "乌兰察布",
     "cityCode": "150900",
     "province": "内蒙古自治区",
-    "provinceCode": "150000"
+    "provinceCode": "150000",
+    "label": "其他"
   },
   {
     "city": "鹰潭",
     "cityCode": "360600",
     "province": "江西省",
-    "provinceCode": "360000"
+    "provinceCode": "360000",
+    "label": "其他"
   },
   {
     "city": "桓台县",
     "cityCode": "370321",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "辽源",
     "cityCode": "220400",
     "province": "吉林省",
-    "provinceCode": "220000"
+    "provinceCode": "220000",
+    "label": "其他"
   },
   {
     "city": "兖州",
     "cityCode": "370812",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "济源",
     "cityCode": "419001",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "其他"
   },
   {
     "city": "白城",
     "cityCode": "220800",
     "province": "吉林省",
-    "provinceCode": "220000"
+    "provinceCode": "220000",
+    "label": "其他"
   },
   {
     "city": "大丰",
     "cityCode": "320904",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "肥西县",
     "cityCode": "340123",
     "province": "安徽省",
-    "provinceCode": "340000"
+    "provinceCode": "340000",
+    "label": "其他"
   },
   {
     "city": "沭阳县",
     "cityCode": "321322",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "邳州",
     "cityCode": "320382",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "新沂",
     "cityCode": "320381",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "辽中县",
     "cityCode": "210115",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "庄河",
     "cityCode": "210283",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "海城",
     "cityCode": "210381",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "阿拉善盟",
     "cityCode": "152900",
     "province": "内蒙古自治区",
-    "provinceCode": "150000"
+    "provinceCode": "150000",
+    "label": "其他"
   },
   {
     "city": "文山壮族苗族自治州",
     "cityCode": "532600",
     "province": "云南省",
-    "provinceCode": "530000"
+    "provinceCode": "530000",
+    "label": "其他"
   },
   {
     "city": "保山",
     "cityCode": "530500",
     "province": "云南省",
-    "provinceCode": "530000"
+    "provinceCode": "530000",
+    "label": "其他"
   },
   {
     "city": "白银",
     "cityCode": "620400",
     "province": "甘肃省",
-    "provinceCode": "620000"
+    "provinceCode": "620000",
+    "label": "其他"
   },
   {
     "city": "建湖县",
     "cityCode": "320925",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "武安",
     "cityCode": "130481",
     "province": "河北省",
-    "provinceCode": "130000"
+    "provinceCode": "130000",
+    "label": "其他"
   },
   {
     "city": "普洱",
     "cityCode": "530800",
     "province": "云南省",
-    "provinceCode": "530000"
+    "provinceCode": "530000",
+    "label": "其他"
   },
   {
     "city": "昌吉回族自治州",
     "cityCode": "652300",
     "province": "新疆维吾尔自治区",
-    "provinceCode": "650000"
+    "provinceCode": "650000",
+    "label": "其他"
   },
   {
     "city": "开原",
     "cityCode": "211282",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "永安",
     "cityCode": "350481",
     "province": "福建省",
-    "provinceCode": "350000"
+    "provinceCode": "350000",
+    "label": "其他"
   },
   {
     "city": "仙桃",
     "cityCode": "429004",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "其他"
   },
   {
     "city": "文登",
     "cityCode": "371003",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "天水",
     "cityCode": "620500",
     "province": "甘肃省",
-    "provinceCode": "620000"
+    "provinceCode": "620000",
+    "label": "其他"
   },
   {
     "city": "黔东南苗族侗族自治州",
     "cityCode": "522600",
     "province": "贵州省",
-    "provinceCode": "520000"
+    "provinceCode": "520000",
+    "label": "其他"
   },
   {
     "city": "安顺",
     "cityCode": "520400",
     "province": "贵州省",
-    "provinceCode": "520000"
+    "provinceCode": "520000",
+    "label": "其他"
   },
   {
     "city": "商洛",
     "cityCode": "611000",
     "province": "陕西省",
-    "provinceCode": "610000"
+    "provinceCode": "610000",
+    "label": "其他"
   },
   {
     "city": "庆阳",
     "cityCode": "621000",
     "province": "甘肃省",
-    "provinceCode": "620000"
+    "provinceCode": "620000",
+    "label": "其他"
   },
   {
     "city": "巴音郭楞",
     "cityCode": "652800",
     "province": "新疆维吾尔自治区",
-    "provinceCode": "650000"
+    "provinceCode": "650000",
+    "label": "其他"
   },
   {
     "city": "石嘴山",
     "cityCode": "640200",
     "province": "宁夏回族自治区",
-    "provinceCode": "640000"
+    "provinceCode": "640000",
+    "label": "其他"
   },
   {
     "city": "双鸭山",
     "cityCode": "230500",
     "province": "黑龙江省",
-    "provinceCode": "230000"
+    "provinceCode": "230000",
+    "label": "其他"
   },
   {
     "city": "河池",
     "cityCode": "451200",
     "province": "广西壮族自治区",
-    "provinceCode": "450000"
+    "provinceCode": "450000",
+    "label": "其他"
   },
   {
     "city": "新郑",
     "cityCode": "410184",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "其他"
   },
   {
     "city": "兴安盟",
     "cityCode": "152200",
     "province": "内蒙古自治区",
-    "provinceCode": "150000"
+    "provinceCode": "150000",
+    "label": "其他"
   },
   {
     "city": "博罗县",
     "cityCode": "441322",
     "province": "广东省",
-    "provinceCode": "440000"
+    "provinceCode": "440000",
+    "label": "其他"
   },
   {
     "city": "丰县",
     "cityCode": "211223",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "沛县",
     "cityCode": "320322",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "铜仁地区",
     "cityCode": "520600",
     "province": "贵州省",
-    "provinceCode": "520000"
+    "provinceCode": "520000",
+    "label": "其他"
   },
   {
     "city": "蓬莱",
     "cityCode": "370614",
     "province": "山东省",
-    "provinceCode": "370000"
+    "provinceCode": "370000",
+    "label": "其他"
   },
   {
     "city": "天门",
     "cityCode": "429006",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "其他"
   },
   {
     "city": "潜江",
     "cityCode": "429005",
     "province": "湖北省",
-    "provinceCode": "420000"
+    "provinceCode": "420000",
+    "label": "其他"
   },
   {
     "city": "新民",
     "cityCode": "210181",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "赣榆县",
     "cityCode": "320707",
     "province": "江苏省",
-    "provinceCode": "320000"
+    "provinceCode": "320000",
+    "label": "其他"
   },
   {
     "city": "巩义",
     "cityCode": "410181",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "其他"
   },
   {
     "city": "武威",
     "cityCode": "620600",
     "province": "甘肃省",
-    "provinceCode": "620000"
+    "provinceCode": "620000",
+    "label": "其他"
   },
   {
     "city": "吴忠",
     "cityCode": "640300",
     "province": "宁夏回族自治区",
-    "provinceCode": "640000"
+    "provinceCode": "640000",
+    "label": "其他"
   },
   {
     "city": "临沧",
     "cityCode": "530900",
     "province": "云南省",
-    "provinceCode": "530000"
+    "provinceCode": "530000",
+    "label": "其他"
   },
   {
     "city": "孝义",
     "cityCode": "141181",
     "province": "山西省",
-    "provinceCode": "140000"
+    "provinceCode": "140000",
+    "label": "其他"
   },
   {
     "city": "巴中",
     "cityCode": "511900",
     "province": "四川省",
-    "provinceCode": "510000"
+    "provinceCode": "510000",
+    "label": "其他"
   },
   {
     "city": "平凉",
     "cityCode": "620800",
     "province": "甘肃省",
-    "provinceCode": "620000"
+    "provinceCode": "620000",
+    "label": "其他"
   },
   {
     "city": "张掖",
     "cityCode": "620700",
     "province": "甘肃省",
-    "provinceCode": "620000"
+    "provinceCode": "620000",
+    "label": "其他"
   },
   {
     "city": "黑河",
     "cityCode": "231100",
     "province": "黑龙江省",
-    "provinceCode": "230000"
+    "provinceCode": "230000",
+    "label": "其他"
   },
   {
     "city": "七台河",
     "cityCode": "230900",
     "province": "黑龙江省",
-    "provinceCode": "230000"
+    "provinceCode": "230000",
+    "label": "其他"
   },
   {
     "city": "调兵山",
     "cityCode": "211281",
     "province": "辽宁省",
-    "provinceCode": "210000"
+    "provinceCode": "210000",
+    "label": "其他"
   },
   {
     "city": "鹤岗",
     "cityCode": "230400",
     "province": "黑龙江省",
-    "provinceCode": "230000"
+    "provinceCode": "230000",
+    "label": "其他"
   },
   {
     "city": "黔南布依族苗族自治州",
     "cityCode": "522700",
     "province": "贵州省",
-    "provinceCode": "520000"
+    "provinceCode": "520000",
+    "label": "其他"
   },
   {
     "city": "新密",
     "cityCode": "410183",
     "province": "河南省",
-    "provinceCode": "410000"
+    "provinceCode": "410000",
+    "label": "其他"
   }
 ]
