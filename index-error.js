@@ -49,7 +49,7 @@ async function init() {
             cityCode: city.cityCode,
             province: city.provinceName.replace('*', ''),
             provinceCode: `${city.provinceCode}0000`,
-            label: item.name,
+            label: item.label,
           }
         }
         else {
